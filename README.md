@@ -1,1 +1,2 @@
-# Procedural_Programming_Code
+Procedural Programming Project
+Chris, Sadie, and Addison
